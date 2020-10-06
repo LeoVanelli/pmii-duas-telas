@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+#map {
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom:5%;
+  padding-right:90%;
+  width: 60%;
+  height: 80%;
+}
+
+html,body {
+  background-image: url("https://www.xmple.com/wallpaper/black-gradient-blue-linear-1920x1080-c2-0e1748-020307-a-330-f-14.svg");
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  margin:auto;
+  margin-bottom: 10%;
+  margin-left:10%;
+  margin-right: 10%;
+  position: absolute;
+  border: solid;
+  bottom: 0; 
+  right: 0;  
+  left: 0; 
+  background-color: #33b5e5;
+  text-align: center;
+}
+
+.footer:hover {
+  background-color: #0099cc;
+}
+
+.footer label{
+  margin-top: 5%;
+  font-family: "Arial", sans-serif;
+  font-size:22px;
+  color: #fff;
+}
+
